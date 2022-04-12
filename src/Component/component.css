@@ -1,0 +1,45 @@
+
+.header{
+    border-bottom: 2px solid black;
+    
+    
+    
+}
+.comp1{
+    
+    border: 1px solid black; 
+    margin:20px;
+    font: size 25px;
+    
+    
+}
+.comp2{
+    border:1px solid black;
+    float:left;
+    width:calc(50% - 2px);
+    background-color: blue;
+    
+    
+}
+.comp2yeni{
+    border:1px solid black;
+    float:left;
+    width:calc(100% - 30px);
+    background-color: green;
+    
+    
+}
+.comp3{
+    border:1px solid black;
+    width: auto ;
+    float:left;
+    width: calc(50%-2px);
+}
+
+
+.stil1{
+    color: blue;
+}
+.stil2{
+    color:chocolate;
+}
